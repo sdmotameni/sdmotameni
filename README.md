@@ -1,11 +1,11 @@
 ### Hey there 👋
 I'm Sep, Full Stack Engineer from  Charlotte, NC.
 
-💡  I like to explore new trends and learn new technologies.
-🌱  I'm on track for learning more about React, Context, TypeScript, NextJS, and NodeJS.
-🚧  I'm currently working on two new secret projects after DataRest and EasyAuth ... 👀.
-💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-📫  How to reach me: me@sepmotameni.com
+💡 &nbsp;I like to explore new trends and learn new technologies.\
+🌱 &nbsp;I'm on track for learning more about React, Context, TypeScript, NextJS, and NodeJS.\
+🚧 &nbsp;I'm currently working on two new secret projects after DataRest and EasyAuth ... 👀.\
+💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
+📫 &nbsp;How to reach me: me@sepmotameni.com\
 
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
