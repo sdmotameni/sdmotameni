@@ -5,7 +5,7 @@ I'm Sep, Full Stack Engineer from  Charlotte, NC.
 🌱 &nbsp;I'm on track for learning more about React, Context, TypeScript, NextJS, and NodeJS.\
 🚧 &nbsp;I'm currently working on two new secret projects after DataRest and EasyAuth ... 👀.\
 💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.\
-📫 &nbsp;How to reach me: me@sepmotameni.com\
+📫 &nbsp;How to reach me: me@sepmotameni.com
 
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
@@ -35,5 +35,4 @@ I'm Sep, Full Stack Engineer from  Charlotte, NC.
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
