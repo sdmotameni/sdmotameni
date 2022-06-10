@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm Sep, a Frontend Engineer from  Charlotte, NC.
+I'm Sep, a Full Stack Engineer from  Charlotte, NC.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
 🌱 &nbsp;I'm on track for learning more about React, Context, TypeScript, NextJS, and NodeJS.\
