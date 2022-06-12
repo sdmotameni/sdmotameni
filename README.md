@@ -1,3 +1,4 @@
+##NOTE: 
 ### Hey there 👋
 I'm Sep, a Full Stack Engineer from  Charlotte, NC.
 
