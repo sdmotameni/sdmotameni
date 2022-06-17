@@ -1,6 +1,6 @@
 ## NOTE: I've made a few of my private repos public for recruiters. 
-### Hey there 👋
-I'm Sep, a Full Stack Engineer from  Charlotte, NC.
+## Hey, I'm Sep 👋
+I'm a Full Stack Engineer from Charlotte, NC.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
 🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
