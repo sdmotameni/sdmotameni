@@ -3,8 +3,7 @@ I'm a Full Stack Engineer from Charlotte, NC.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
 🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
-🚧 &nbsp;I'm currently working on a new project called DataRest... 👀.\
-💬 &nbsp;Feel free to reach out to me for help or just for some interesting discussion.\
+🚧 &nbsp;Coming soon: DataRest... 👀\
 📫 &nbsp;How to reach me: me@sepmotameni.com
 
 
