@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hey, I'm Sep!</b>
+# <b>Hey, I'm Sep!</b>&nbsp;<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />
 I'm a Full Stack Engineer from Charlotte, NC.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
