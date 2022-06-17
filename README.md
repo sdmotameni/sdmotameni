@@ -1,4 +1,3 @@
-## NOTE: I've made a few of my private repos public for recruiters. 
 ## Hey, I'm Sep 👋
 I'm a Full Stack Engineer from Charlotte, NC.
 
