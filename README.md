@@ -6,6 +6,15 @@ I'm a Full Stack Engineer from Charlotte, NC.
 🚧 &nbsp;Coming soon: DataRest... 👀\
 📫 &nbsp;How to reach me: me@sepmotameni.com
 
+  <a href="https://app.daily.dev/sepmotameni" target="_blank">
+        <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
+    />
+  </a>
+
+
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
