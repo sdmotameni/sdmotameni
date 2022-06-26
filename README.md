@@ -58,14 +58,16 @@ I'm a Full Stack Engineer from Charlotte, NC.
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
+  
+  <a href="https://app.daily.dev/sepmotameni" target="_blank">
+        <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
     />
   </a>
+
+
 </div>
 
 ## I am Ole-Martin Bratteng
