@@ -1,11 +1,3 @@
-## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
-I'm a Full Stack Engineer from Charlotte, NC.
-
-💡 &nbsp;I like to explore new trends and learn new technologies.\
-🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
-🚧 &nbsp;Coming soon: DataRest... 👀\
-📫 &nbsp;How to reach me: me@sepmotameni.com
-
   <a href="https://app.daily.dev/sepmotameni" target="_blank">
         <img
       width="256"
@@ -13,6 +5,13 @@ I'm a Full Stack Engineer from Charlotte, NC.
       src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
     />
   </a>
+## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
+I'm a Full Stack Engineer from Charlotte, NC.
+
+💡 &nbsp;I like to explore new trends and learn new technologies.\
+🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
+🚧 &nbsp;Coming soon: DataRest... 👀\
+📫 &nbsp;How to reach me: me@sepmotameni.com
 
 
 
