@@ -35,3 +35,7 @@ I'm a Full Stack Engineer from Charlotte, NC.
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
+
+## Daily.dev Stats
+
+<a href="https://app.daily.dev/sepmotameni"><img src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc" width="400" alt="Sep Motameni's Dev Card"/></a>
