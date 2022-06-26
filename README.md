@@ -5,6 +5,7 @@
       src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
     />
   </a>
+  
 ## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
 I'm a Full Stack Engineer from Charlotte, NC.
 
@@ -44,13 +45,8 @@ I'm a Full Stack Engineer from Charlotte, NC.
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-## Daily.dev Stats
 
-<a href="https://app.daily.dev/sepmotameni"><img src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc" width="200" alt="Sep Motameni's Dev Card"/></a>
-
-
-
-
+<!-- 
 # Hi there 👋
 
 <div align="left">
@@ -86,4 +82,4 @@ I'm a Full Stack Engineer from Charlotte, NC.
 ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg) -->
