@@ -38,4 +38,4 @@ I'm a Full Stack Engineer from Charlotte, NC.
 
 ## Daily.dev Stats
 
-<a height="30px" href="https://app.daily.dev/sepmotameni"><img src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc" width="400" alt="Sep Motameni's Dev Card"/></a>
+<a href="https://app.daily.dev/sepmotameni"><img src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc" width="200" alt="Sep Motameni's Dev Card"/></a>
