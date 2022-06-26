@@ -1,5 +1,6 @@
   <a href="https://app.daily.dev/sepmotameni" target="_blank">
-        <img
+<!-- TODO: Image is implicitly cached, setup a work github workflow to fix  -->
+  <img
       width="256"
       align="right"
       src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
@@ -9,6 +10,7 @@
 ## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
 I'm a Full Stack Engineer from Charlotte, NC.
 
+🫖 &nbsp;Tall cup of coffee from Starbs does the trick.
 💡 &nbsp;I like to explore new trends and learn new technologies.\
 🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
 🚧 &nbsp;Coming soon: DataRest... 👀\
