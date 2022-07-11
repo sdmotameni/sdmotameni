@@ -11,7 +11,7 @@
 I'm a Full Stack Engineer from Charlotte, NC.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
-🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
+🌱 &nbsp;Favorite tech: TypeScript, Next, & Node. \
 📫 &nbsp;How to reach me: me@sepmotameni.com
 
 
