@@ -10,10 +10,8 @@
 ## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
 I'm a Full Stack Engineer from Charlotte, NC.
 
-🫖 &nbsp;Coffee Connoisseur\
 💡 &nbsp;I like to explore new trends and learn new technologies.\
 🌱 &nbsp;Favorite tech: React, Context, TypeScript, NextJS, and NodeJS.\
-🚧 &nbsp;Coming soon: DataRest... 👀\
 📫 &nbsp;How to reach me: me@sepmotameni.com
 
 
