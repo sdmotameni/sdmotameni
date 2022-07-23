@@ -46,7 +46,6 @@ I'm a Full Stack Engineer from Charlotte, NC.
 </p>
 
 
-<!-- 
 # Hi there 👋
 
 <div align="left">
@@ -82,4 +81,4 @@ I'm a Full Stack Engineer from Charlotte, NC.
 ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg) -->
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
