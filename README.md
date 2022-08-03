@@ -1,6 +1,7 @@
+<!-- TODO: Image is implicitly cached, setup a work github workflow to fix  -->
+
 <!--
 <a href="https://app.daily.dev/sepmotameni" target="_blank">
-<!-- TODO: Image is implicitly cached, setup a work github workflow to fix  -->
   <img
       width="256"
       align="right"
