@@ -1,4 +1,5 @@
-  <a href="https://app.daily.dev/sepmotameni" target="_blank">
+<!--
+<a href="https://app.daily.dev/sepmotameni" target="_blank">
 <!-- TODO: Image is implicitly cached, setup a work github workflow to fix  -->
   <img
       width="256"
@@ -6,6 +7,7 @@
       src="https://api.daily.dev/devcards/91a997e9de4f430bb9df6330044a92f1.png?r=dkc"
     />
   </a>
+  -->
   
 ## <b>Hey, I'm Sep</b>&nbsp;<img src="https://raw.githubusercontent.com/sdmotameni/sdmotameni/main/handGreet.gif" width="30px" height="30px" />
 I'm a Full Stack Engineer from Charlotte, NC.
